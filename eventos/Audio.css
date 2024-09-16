@@ -1,0 +1,19 @@
+.body{
+    background-color: rgb(175, 175, 185);
+}
+
+.container{
+    border: solid black;
+    padding: 3cm;
+}
+
+.reproductor{
+    justify-content: center;
+    border: solid blue;
+    padding: 1cm;
+}
+
+.lista{
+    border: solid red;
+    padding: 0.3cm;
+}
